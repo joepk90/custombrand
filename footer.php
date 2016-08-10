@@ -11,14 +11,9 @@
 
 ?>
 
-	</div><!-- #content -->
+	<!--</div>--><!-- #content -->
 
-	</div><!-- #row -->
 
-    </div><!-- #container -->
-
-    </div><!-- #site-wrapper-inner -->
-    </div><!-- #site-wrapper -->
 
 	<!--<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
@@ -27,9 +22,9 @@
 			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'rapidz' ), 'rapidz', '<a href="http://underscores.me/" rel="designer">Underscores.me</a>' ); ?>
 		</div> --> <!-- .site-info -->
 	<!--</footer> -->    <!-- #colophon -->
-</div><!-- #page -->
+<!--</div>--><!-- #page -->
 
-<?php wp_footer(); ?>
+<!-- <?php wp_footer(); ?>-->
 
 </body>
 </html>
